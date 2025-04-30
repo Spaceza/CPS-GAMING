@@ -42,3 +42,6 @@ Esse projeto foi criado para praticar:
 - Testes automatizados com Cypress
 
 - Experiencia com automação de testes.
+
+## ✒️ Colaboração
+Dev -  [Lucas](https://github.com/Chaves777)
