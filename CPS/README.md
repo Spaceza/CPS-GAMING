@@ -15,7 +15,6 @@ Projeto feito com foco em medir **cliques por segundo (CPS)** de forma simples, 
 - Contador de cliques por segundo (CPS)
 - Timer ajustável
 - Feedback visual em tempo real
-- Layout responsivo para desktop e mobile
 - Testes automatizados com Cypress para garantir funcionalidade
 
 ## 🧪 Testes com Cypress
