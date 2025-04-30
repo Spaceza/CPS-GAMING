@@ -8,6 +8,7 @@ Projeto feito com foco em medir **cliques por segundo (CPS)** de forma simples, 
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **Cypress** (para testes automatizados)
+- **Bootstrap**
 
 ## 🚀 Funcionalidades
 
