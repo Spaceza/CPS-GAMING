@@ -45,4 +45,4 @@ Esse projeto foi criado para praticar:
 - Experiencia com automação de testes.
 
 ## ✒️ Colaboração
-Dev -  [Lucas](https://github.com/Chaves777)
+ - Dev -  [Lucas](https://github.com/Chaves777)
