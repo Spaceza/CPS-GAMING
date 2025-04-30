@@ -28,7 +28,7 @@ Este projeto conta com automações de teste usando o **Cypress** para validar:
 
 ## 📸 Preview
 
-![preview](preview.png)
+![preview](Preview.png)
 
 ## 🧠 Objetivo do Projeto
 Esse projeto foi criado para praticar:
